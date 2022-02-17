@@ -29,8 +29,8 @@ nav a{
 
 header{
     background: #DA4453;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #89216B, #DA4453);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #89216B, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+    background: -webkit-linear-gradient(to right, #030203, #727272);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000000, #6e6c6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
     height: auto;
     padding: 48px;
     width: 100%;
@@ -87,8 +87,8 @@ img{
     height: 100px;
     width: 100%;
     background: #DA4453;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #89216B, #DA4453);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #89216B, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+    background: -webkit-linear-gradient(to right, #030203, #727272);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000000, #6e6c6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .enlaces{
@@ -104,8 +104,8 @@ img{
     width: 100%;
     transition: all 1s ease;
     background: #bc4e9c;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #f80759, #bc4e9c);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to right, #030203, #727272);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #000000, #6e6c6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
