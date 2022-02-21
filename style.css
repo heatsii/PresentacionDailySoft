@@ -21,6 +21,7 @@ nav a{
     text-decoration: none;
 }
 
+
 .icono{
     display: block;
     z-index: 100000000;
@@ -92,6 +93,7 @@ img{
 }
 
 .enlaces{
+    font-size: 60px;
     position: fixed;
     display: flex;
     top: 0;
